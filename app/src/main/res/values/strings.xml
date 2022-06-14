@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="desc_1">A Random Description for meme one</string>
+    <string name="desc_2">A Random Description for meme two</string>
+    <string name="desc_3">A Random Description for meme three</string>
+    <string name="desc_4">A Random Description for meme four</string>
+    <string name="desc_5">A Random Description for meme five</string>
+    <string name="desc_6">A Random Description for meme six</string>
+    <string name="desc_7">A Random Description for meme seven</string>
+    <string name="desc_8">A Random Description for meme eight</string>
+    <string name="desc_9">A Random Description for meme nine</string>
+    <string name="desc_10">A Random Description for meme ten</string>
+    <string name="desc_11">A Random Description for meme eleven</string>
+    <string name="desc_12">A Random Description for meme twelve</string>
+    <string name="heading_1">Heading for meme one</string>
+    <string name="heading_2">Heading for meme two</string>
+    <string name="heading_3">Heading for meme three</string>
+    <string name="heading_4">Heading for meme four</string>
+    <string name="heading_5">Heading for meme five</string>
+    <string name="heading_6">Heading for meme six</string>
+    <string name="heading_7">Heading for meme seven</string>
+    <string name="heading_8">Heading for meme eight</string>
+    <string name="heading_9">Heading for meme nine</string>
+    <string name="heading_10">Heading for meme ten</string>
+    <string name="heading_11">Heading for meme eleven</string>
+    <string name="heading_12">Heading for meme twelve</string>
+</resources>
